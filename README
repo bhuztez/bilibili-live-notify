@@ -1,0 +1,5 @@
+bilibili 直播弹幕到Linux桌面提醒
+
+比如ROOMID是123，运行 python3 live.py 123 就可以了
+
+参考 B站直播弹幕协议详解 ( http://www.lyyyuna.com/2016/03/14/bilibili-danmu01/ )
